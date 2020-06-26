@@ -1,1 +1,3 @@
 # ITC-Group-assignment
+This repository contains files mirroring a software that has been developed to help out retail stores make their workload easier.This software is supposed to solve some of the major difficulties for example; the functions that have been created to help the business wtih sales, receiving and keeping track of stock, employee salary management upon others as well. 
+All of these were developed stratergically, as there has been modules that make the user interface easier for the operaters of the software created. These modules help group related functions together, improving productivity and creating a frindly system to work with.
